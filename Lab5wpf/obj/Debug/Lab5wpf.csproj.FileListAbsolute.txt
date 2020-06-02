@@ -1,0 +1,16 @@
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\bin\Debug\Lab5wpf.exe.config
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\bin\Debug\Lab5wpf.exe
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\bin\Debug\Lab5wpf.pdb
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\App.g.cs
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\Lab5wpf_MarkupCompile.cache
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\Lab5wpf_MarkupCompile.lref
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\MainWindow.baml
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\Lab5wpf.g.resources
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\Lab5wpf.Properties.Resources.resources
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\Lab5wpf.csproj.GenerateResource.cache
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\Lab5wpf.exe
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\Lab5wpf.pdb
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\PersonCard.g.cs
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\PersonCard.baml
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs

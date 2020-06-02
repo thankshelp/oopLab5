@@ -1,0 +1,8 @@
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5Forms\bin\Debug\Lab5Forms.exe.config
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5Forms\bin\Debug\Lab5Forms.exe
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5Forms\bin\Debug\Lab5Forms.pdb
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5Forms\obj\Debug\Lab5Forms.Form1.resources
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5Forms\obj\Debug\Lab5Forms.Properties.Resources.resources
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5Forms\obj\Debug\Lab5Forms.csproj.GenerateResource.cache
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5Forms\obj\Debug\Lab5Forms.exe
+C:\Users\Виктория\source\repos\oop\Lab5\Lab5wpf\Lab5Forms\obj\Debug\Lab5Forms.pdb
